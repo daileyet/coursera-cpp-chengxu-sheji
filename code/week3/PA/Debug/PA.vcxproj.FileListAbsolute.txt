@@ -1,0 +1,2 @@
+R:\coursera-cpp-chengxu-sheji\code\week3\PA\Debug\PA.exe
+R:\coursera-cpp-chengxu-sheji\code\week3\PA\Debug\PA.pdb
